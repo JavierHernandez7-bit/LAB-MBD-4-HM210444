@@ -1,0 +1,33 @@
+C:\Users\bryan\Desktop\G4_MDB\P4_Parte_2\P4_Parte_2\bin\Debug\P4_Parte_2.exe.config
+C:\Users\bryan\Desktop\G4_MDB\P4_Parte_2\P4_Parte_2\bin\Debug\P4_Parte_2.exe
+C:\Users\bryan\Desktop\G4_MDB\P4_Parte_2\P4_Parte_2\bin\Debug\P4_Parte_2.pdb
+C:\Users\bryan\Desktop\G4_MDB\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.csproj.AssemblyReference.cache
+C:\Users\bryan\Desktop\G4_MDB\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.Form1.resources
+C:\Users\bryan\Desktop\G4_MDB\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.Form2.resources
+C:\Users\bryan\Desktop\G4_MDB\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.Properties.Resources.resources
+C:\Users\bryan\Desktop\G4_MDB\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.csproj.GenerateResource.cache
+C:\Users\bryan\Desktop\G4_MDB\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\G4_MDB\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.exe
+C:\Users\bryan\Desktop\G4_MDB\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.pdb
+C:\Users\bryan\Desktop\G4_MDB\P2\P4_Parte_2\P4_Parte_2\bin\Debug\P4_Parte_2.exe.config
+C:\Users\bryan\Desktop\G4_MDB\P2\P4_Parte_2\P4_Parte_2\bin\Debug\P4_Parte_2.exe
+C:\Users\bryan\Desktop\G4_MDB\P2\P4_Parte_2\P4_Parte_2\bin\Debug\P4_Parte_2.pdb
+C:\Users\bryan\Desktop\G4_MDB\P2\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.csproj.AssemblyReference.cache
+C:\Users\bryan\Desktop\G4_MDB\P2\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.Form1.resources
+C:\Users\bryan\Desktop\G4_MDB\P2\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.Form2.resources
+C:\Users\bryan\Desktop\G4_MDB\P2\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.Properties.Resources.resources
+C:\Users\bryan\Desktop\G4_MDB\P2\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.csproj.GenerateResource.cache
+C:\Users\bryan\Desktop\G4_MDB\P2\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\G4_MDB\P2\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.exe
+C:\Users\bryan\Desktop\G4_MDB\P2\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.pdb
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\ejercicio2G5BD\P4_Parte_2\P4_Parte_2\bin\Debug\P4_Parte_2.exe.config
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\ejercicio2G5BD\P4_Parte_2\P4_Parte_2\bin\Debug\P4_Parte_2.exe
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\ejercicio2G5BD\P4_Parte_2\P4_Parte_2\bin\Debug\P4_Parte_2.pdb
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\ejercicio2G5BD\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.csproj.AssemblyReference.cache
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\ejercicio2G5BD\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.Form1.resources
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\ejercicio2G5BD\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.Form2.resources
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\ejercicio2G5BD\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.Properties.Resources.resources
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\ejercicio2G5BD\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.csproj.GenerateResource.cache
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\ejercicio2G5BD\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.csproj.CoreCompileInputs.cache
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\ejercicio2G5BD\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.exe
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\ejercicio2G5BD\P4_Parte_2\P4_Parte_2\obj\Debug\P4_Parte_2.pdb

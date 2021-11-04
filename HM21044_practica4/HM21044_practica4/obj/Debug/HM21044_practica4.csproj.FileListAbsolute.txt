@@ -1,0 +1,11 @@
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\HM21044_practica4\HM21044_practica4\obj\Debug\HM21044_practica4.csproj.AssemblyReference.cache
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\HM21044_practica4\HM21044_practica4\obj\Debug\HM21044_practica4.Form1.resources
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\HM21044_practica4\HM21044_practica4\obj\Debug\HM21044_practica4.Form2.resources
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\HM21044_practica4\HM21044_practica4\obj\Debug\HM21044_practica4.Properties.Resources.resources
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\HM21044_practica4\HM21044_practica4\obj\Debug\HM21044_practica4.csproj.GenerateResource.cache
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\HM21044_practica4\HM21044_practica4\obj\Debug\HM21044_practica4.csproj.CoreCompileInputs.cache
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\HM21044_practica4\HM21044_practica4\bin\Debug\HM21044_practica4.exe.config
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\HM21044_practica4\HM21044_practica4\bin\Debug\HM21044_practica4.exe
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\HM21044_practica4\HM21044_practica4\bin\Debug\HM21044_practica4.pdb
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\HM21044_practica4\HM21044_practica4\obj\Debug\HM21044_practica4.exe
+D:\REPOSITORIOS VS\LAB MDB\LAB 4 MBD\HM21044_practica4\HM21044_practica4\obj\Debug\HM21044_practica4.pdb
